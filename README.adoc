@@ -1,0 +1,7 @@
+= Common notes
+
+toc::[]
+
+include::CODE_STYLE.md[]
+
+include::SET_UP_ENV.md[]
